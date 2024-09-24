@@ -5,7 +5,7 @@ A lab on exceptions.
 Authors:
 
 * Samuel A. Rebelsky (starter code).
-* Your Name Here
-* Your Name Here
+* Sunjae Kim
+* Alyssa Ryan
 
-This code may be found at <URL>.
+This code may be found at <https://github.com/reflexpoem/lab-exceptions-maven.git>.
